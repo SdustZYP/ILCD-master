@@ -1,0 +1,3 @@
+Overall Accuracy is: 86.06
+number : 79.89 other : 85.65 yes/no : 94.94 
+
